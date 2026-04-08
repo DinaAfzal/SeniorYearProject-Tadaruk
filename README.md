@@ -2,6 +2,7 @@
 AI-powered predictive vehicle maintenance system | Random Forest &amp; Ensemble models
 
 This project is the work of a 3-member team, led by yours truly :D
+Under the supervision of Dr.Bassma Alsulami.
 
 TADARUK introduces an innovative AI-powered predictive maintenance system
 designed to enhance vehicle efficiency and minimize unexpected downtime. The

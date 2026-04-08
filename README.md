@@ -13,7 +13,7 @@ unanticipated breakdowns, and improves operational efficiency, thus enhancing
 vehicle reliability.
 
 ## 📄 Repository Contents
-- `Tadaruk_Final_Report.pdf` — Full project documentation including 
+- `CS499_Group#9_FinalReport.pdf` — Full project documentation including 
   methodology, results, and system architecture
 
 ## ⚠️ Note
